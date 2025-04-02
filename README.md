@@ -1,11 +1,5 @@
 # Skin_Cancer_Classification_using_DL
 
-Here's a **README.md** file for your GitHub repository:  
-
----
-
-# **Skin Cancer Classification Using CNN and VGG19**  
-
 ## **Overview**  
 This project focuses on detecting and classifying skin cancer using **Convolutional Neural Networks (CNN)** and **VGG19**. By leveraging deep learning techniques, the model aims to assist in early diagnosis and improve classification accuracy.  
 
